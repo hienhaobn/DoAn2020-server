@@ -1,0 +1,1 @@
+npm run sequelize db:migrate:all

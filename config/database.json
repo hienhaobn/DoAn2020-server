@@ -1,0 +1,28 @@
+
+
+{
+  "development": {
+    "username": "hienhao123",
+    "password": "HienHao@123",
+    "database": "doan2020",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "hienhao123",
+    "password": "HienHao@123",
+    "database": "doan2020",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "hienhao123",
+    "password": "HienHao@123",
+    "database": "doan2020",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}
